@@ -1,0 +1,15 @@
+{
+  "name": "tailwind",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+   
+  },
+  "keywords": [],
+  "author": "",
+  "license": "",
+  "description": "",
+  "dependencies": {
+  "tailwindcss": "^3.4.17"
+  }
+}
